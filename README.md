@@ -1,4 +1,3 @@
-# phonepepluse-project-
 # PhonePe Pulse Data Visualization and Exploration
 
 **Introduction**
@@ -37,7 +36,14 @@ pip install streamlit
 pip install plotly
 ```
 
+**Usage**
 
+To use this project, follow these steps:
+
+1. Clone the repository: ```git clone 
+2. Install the required packages: ```pip install -r requirements.txt```
+3. Run the Streamlit app: ```streamlit run app.py```
+4. Access the app in your browser at ```http://localhost:8501```
 
 **Features**
 
@@ -72,7 +78,6 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 **Contact**
 
 📧 Email: nandhagopal1319@gmail.com 
-
 
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
